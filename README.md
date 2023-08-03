@@ -7,6 +7,9 @@ from the Afghanistan National Quarterly Assessment Research (ANQAR) to plot the 
 territorial control and opium revenue in Afghanistan, then examines the correlation between microlevel
 economic shocks and state capacity.
 
+## Data
+Afghanistan National Quarterly Assessment Research (ANQAR) *Private*
+
 ## Things Learned
 1. R: packages(dplyr, ggplot2), regression models for binomial data
 2. Quantitative Analysis: panel regression, causality, multivariate analysis
